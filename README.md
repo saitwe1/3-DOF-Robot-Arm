@@ -1,2 +1,2 @@
 # 3-DOF-Robot-Arm
-Tinkering with 3-DOF Robot Arm. Using Haromic as acurator
+Tinkering with 3-DOF Robot Arm. Using compated Haromic as acurator
